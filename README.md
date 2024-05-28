@@ -17,6 +17,6 @@ En PHP  didponemos de la comillas dobles ``` " " ``` que interpretan las variabl
 Hay determinados simbolos y comillas que deben ser manejadas mediante entidades HTML ``` &; ``` y contrabarras ```  \ ``` 
 
 ## 10-Ejercicio_server.php
-Manipulación e interpretación de datos de ``` $_SERVER[]```  mediante funciones de string ``` str_contains() explode() sbustr() `` 
+Manipulación e interpretación de datos de ``` $_SERVER[]```  mediante funciones de string ``` str_contains() explode() substr() ```
 
 
